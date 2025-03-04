@@ -10,12 +10,13 @@ const bio = {
 };
 
 const skills = {
-    languages: ['Java', 'JavaScript'],
-    databases: ['MongoDB', 'MySQL'],
-    markupLanguage: ['HTML5'],
-    libraryAndFrameworks: ['ReactJS', 'ExpressJS'],
-    tools: ['Git', 'Eclipse', 'Postman'],
-    others: ['Data Structures', 'Object Oriented Programming (OOPs)', 'NodeJS']
+    languages: ['Java', 'JavaScript', 'TypeScript'],
+    databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
+    markupLanguages: ['HTML5'],
+    librariesAndFrameworks: ['NodeJS', 'NestJS', 'ReactJS', 'ExpressJS', 'Bull Queue'],
+    tools: ['Git', 'Eclipse', 'Postman', 'Jenkins', 'Docker'],
+    cloudPlatforms: ['Azure'],
+    concepts: ['Data Structures', 'Object-Oriented Programming (OOP)']
 };
 ```
 
