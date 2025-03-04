@@ -5,8 +5,9 @@
 ```js
 const bio = {
     name: 'Kamal Jain',
-    title: 'Software Development Engineer',
-    currentlyLearning: 'MERN Stack'
+    title: 'Software Development Engineer 3',
+    experience: '4+ years',
+    specialization: ['Backend Development', 'System Design', 'Microservices'],
 };
 
 const skills = {
